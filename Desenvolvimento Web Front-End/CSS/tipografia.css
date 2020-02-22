@@ -1,0 +1,32 @@
+h1{
+	color: #31B404;
+	letter-spacing: 1.2px;/*espaçamento entre as letras*/
+	width: 650px;
+	text-shadow: 4px 4px #000000;/*sombreamento vertical e horizontal e a cor so sombreamento*/
+    font-family: 'Righteous', cursive;
+    font-size: 43px;
+    margin-left: 450px;
+
+    
+
+}
+h1:hover{
+	
+	text-transform: uppercase;
+	float-left: 20px;
+
+
+
+}
+p{
+	width: 650px;
+	text-align: justify;
+	font-size: 20px;
+	font-family: arial;
+	text-align: left;
+	margin-left: 350px;
+	margin-right: 350px;
+	border-style: groove;
+
+	
+}

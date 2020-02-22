@@ -1,0 +1,58 @@
+body{
+	background: #A4A4A4;
+}	
+
+.absoluto{
+	float: left;
+	margin-right: 10px;
+	border-style: groove;
+	padding: 5px,5px,40px, 5px;
+	border-color: black;
+	font-family: serif;
+	font-size: 20px;
+	background: ;
+	text-align: center;
+	-webkit-border-radius: 20px;
+}
+.absoluto1{
+	float: left;
+	margin-right: 10px;
+	border-style: groove;
+	padding: 5px,5px,20px, 5px;
+	border-color: black;
+	font-family: serif;
+	font-size: 20px;
+	text-align: center;
+	-webkit-border-radius: 20px;
+
+}
+.absoluto2{
+	margin-right: 10px;
+	float: left;
+	border-style: groove;
+	padding: 5px,5px,20px, 5px;
+	border-color: black;
+	font-family: serif;
+	font-size: 20px;
+	text-align: center;
+	-webkit-border-radius: 20px;
+}
+.absoluto3{
+	
+	float: left;
+	border-style: groove;
+	padding: 5px,5px,20px, 5px;
+	border-color: black;
+	font-family: serif;
+	font-size: 20px;
+	text-align: center;
+	-webkit-border-radius: 20px;
+}
+figcaption{
+	
+	border-top-style: groove;
+	border-color: black;
+	-webkit-bottom-border-radius: 30px;
+    
+}	
+

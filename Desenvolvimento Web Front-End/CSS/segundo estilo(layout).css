@@ -1,0 +1,86 @@
+body{
+	font-family: sans-serif;
+}
+a:link, a:visited{
+	color: #088A08;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.cabeçalho{
+	width: 960px;
+	margin: auto;
+	padding: 10px 20px;
+	/*cima, direita, baixo, esquerda*/
+	overflow: hidden;
+
+}
+header hr{
+	size: 3;
+}
+header nav ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+header nav ul li{
+	display: inline-block;
+	margin-right: 15px;
+	text-transform: uppercase;
+}
+
+header nav ul li a{
+	font-size: 15px;
+
+}
+header nav ul li a{
+	
+text-decoration: none;
+color: #111;
+text-transform: uppercase;
+float: left;
+padding: 5px 10px;
+background: #dfdfdf;
+margin-top: 7.5px;
+margin-right: 5px;
+border-radius: 5px;
+-webkit-border-radius: 15px;
+moz-border-radius: 5px;
+font-weight: bold;
+}
+.conteúdo{
+	float: left;
+	width: 660px;
+}
+article a img{
+	margin-left: 0;
+}
+
+.barra_lateral{
+	float: right;
+	width: 300px;
+}
+
+.barra_lateral ul{
+	list-style: none;
+}
+
+.barra_lateral ul li{
+	margin:0 0 25px 0;
+}
+aside ul li a{
+	text-decoration: none;
+    color: #111;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    background: #dfdfdf;
+    border-radius: 5px;
+    -webkit-border-radius: 15px;
+    moz-border-radius: 5px;
+    font-weight: bold;
+}
+
+.rodapé{
+	clear: both;
+}
